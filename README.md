@@ -3,7 +3,7 @@
 - 🤖 rediai.org Vice president
 - 👀 I’m interested in ... AI & ML
 - 🌱 I’m currently learning ... Java & C++
-- 💞️ I’m looking to collaborate on ... Social projects
+- 🤝 I’m looking to collaborate on ... Social projects
 - 📫 How to reach me ... oscar@wexpace.com for  Wexpace
                           / oscarps@rediai.org for Redia
 
