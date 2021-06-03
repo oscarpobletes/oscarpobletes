@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oscarpobletes
+- 👋 Hi, I’m Óscar Poblete Sáenz
 - 👨‍💻 wexpace.com Founder
 - 🤖 rediai.org Vice president
 - 👀 I’m interested in ... AI & ML
