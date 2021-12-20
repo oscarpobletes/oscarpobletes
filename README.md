@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Óscar Poblete Sáenz
-- 👨‍💻 wexpace.com Founder
-- 🤖 rediai.org Vocal
+- 👨‍💻 www.wexpace.com Founder
+- 🤖 www.rediai.org Vocal
 - 👀 I’m interested in ... AI & ML
 - 🌱 I’m currently learning and looking to collaborate on ... Everything I can
 - 📫 How to reach me ... oscar@wexpace.com for  Wexpace
